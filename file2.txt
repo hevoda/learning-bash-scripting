@@ -1,0 +1,2 @@
+Hello me I'm the file2.txt
+And at the end of the file2.txt I'm appending the file owner name who's Hervé EVODA
